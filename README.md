@@ -33,11 +33,11 @@ Kivy was chosen for this project because it is a robust framework that allows th
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
+   git clone https://github.com/anugrahromadhon/To-Do-List
    ```
 2. Navigate to the project directory:
    ```bash
-   cd to-do-list-app
+   cd To-Do-List
    ```
 3. Install the required dependencies:
    ```bash
