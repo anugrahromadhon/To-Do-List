@@ -48,9 +48,6 @@ Kivy was chosen for this project because it is a robust framework that allows th
    python main.py
    ```
 
-## Screenshots
-(Add screenshots of the application here if available.)
-
 ## Future Enhancements
 - Add a feature to edit existing tasks.
 - Implement a search functionality.
